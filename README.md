@@ -1,4 +1,4 @@
-# collocation-searcher
+# Collocation-Searcher
 This is a regex based collocation searcher V0.0.0, by Leo Lei and Rex Gao.
 Thanks for Pan Yang and Tian Haiyan.
 根据雷蕾老师周二的搭配检索方法的分享，用了一个小时写成了这个软件，可以根据正则表达式查询相关词语的搭配，支持所有语言的文本，对学术英语写作的帮助很大。
@@ -30,7 +30,7 @@ It means that the update may not happen in the future unless there are some fata
 1. Fix some coordination problem. User can now adjust the size of the program freely, without the change of the inner structure.
 2. Add right click menu for the output block. Copy&save option is recommended if you encounter some amazing expressions.
 3. Some minor bug fixes and the icon adjustment. Keep caution that the program need that ".ico" file to execute. Make sure to download them as a whole.
-4. Elimate the appearance of background console, which is quite annoying.
+4. Avoid the appearance of background console, which is quite annoying.
 
 ## Cleansing.exe is provided. Run cleansing.exe and clean the corpus files first. Then run the collocation searcher to obtain the best performance.
 Hope for the best!
